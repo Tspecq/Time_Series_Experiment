@@ -17,3 +17,5 @@ NumPy version: 1.16.2
 SciPy version: 1.2.1
 scikit-learn version: 0.21.2
 
+PS: project done in 2 days only
+
